@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoIntent</string>
+    <string name="str_audio">MAKE AUDIO</string>
+    <string name="str_pict">TAKE PICTURE</string>
+    <string name="str_bt_audio">RECORD</string>
+    <string name="str_bt_pict">PICTURE</string>
+</resources>
