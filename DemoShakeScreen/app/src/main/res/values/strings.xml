@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoShakeScreen</string>
+    <string name="shakeIt">SHAKE IT UP !</string>
+</resources>
