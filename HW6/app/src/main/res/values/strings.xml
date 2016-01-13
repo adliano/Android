@@ -1,0 +1,19 @@
+<!--
+***********************************************************
+   Author    : Adriano Alves
+   Date      : May.02.2015
+   Course    : CS211D Spring of 2015
+   File Name : strings.xml
+   Objective : HW6 ,  string xml file responsible for all
+               strings belongs to a application (HW6)
+               to draw balloons, random color, size and
+               locations,
+***********************************************************
+ -->
+
+<resources>
+    <string name="app_name"> HW6 </string>
+    <string name="action_settings">Settings</string>
+    <string name="button_draw">  DRAW  </string>
+    <string name="button_clear">  CLEAR  </string>
+</resources>

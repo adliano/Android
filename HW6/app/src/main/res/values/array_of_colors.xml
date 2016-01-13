@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+***********************************************************
+   Author    : Adriano Alves
+   Date      : May.02.2015
+   Course    : CS211D Spring of 2015
+   File Name : array_of_colors.xml
+   Objective : HW6 , array with colors xml file , belongs
+               to application to draw balloons, random color,
+               size and locations,
+***********************************************************
+ -->
+
+<resources>
+    <array name="arrayOfColors">
+        <item>@color/yellow</item>
+        <item>@color/Crimson</item>
+        <item>@color/greenYellow</item>
+        <item>@color/lime</item>
+        <item>@color/maroon</item>
+        <item>@color/red</item>
+        <item>@color/orange</item>
+        <item>@color/gold</item>
+        <item>@color/red</item>
+        <item>@color/indianRed</item>
+        <item>@color/red</item>
+        <item>@color/orange</item>
+        <item>@color/green</item>
+        <item>@color/purple</item>
+        <item>@color/navy</item>
+        <item>@color/cyan</item>
+        <item>@color/skyBlue</item>
+        <item>@color/darkGreen</item>
+        <item>@color/silver</item>
+        <item>@color/magenta</item>
+        <item>@color/deepPink</item>
+        <item>@color/hotPink</item>
+        <item>@color/chocolate</item>
+        <item>@color/Crimson</item>
+    </array>
+</resources>
